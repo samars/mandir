@@ -10,26 +10,26 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-		<li><a href="#myPage">HOME</a></li>
+		<li><a href="index.html">HOME</a></li>
 		<li class="dropdown">
 			<a class="dropdown-toggle" data-toggle="dropdown" href="#">THE MANDIR
 			<span class="caret"></span></a>
 			<ul class="dropdown-menu">
 			  <li><a href="maa_durga.php">MAA DURGA</a></li>
-			  <li><a href="#">ABOUT DEWRI</a></li>
+			  <li><a href="about.php">ABOUT DEWRI</a></li>
 			</ul>
 		  </li>
 		  <li class="dropdown">
 			<a class="dropdown-toggle" data-toggle="dropdown" href="#">Pilgrim Facilities
 			<span class="caret"></span></a>
 			<ul class="dropdown-menu">
-			  <li><a href="#">Guest Houses</a></li>
-			  <li><a href="#">Trasportation</a></li>
+			  <li><a href="guest.php">Guest Houses</a></li>
+			  <li><a href="transportation.php">Trasportation</a></li>
 			</ul>
 		  </li>
-        <li><a href="#band">Photo Gallery</a></li>
-        <li><a href="#tour">Donate</a></li>
-        <li><a href="#contact">CONTACT</a></li>
+        <li><a href="photos.php">Photo Gallery</a></li>
+        <li><a href="donate.php">Donate</a></li>
+        <li><a href="contact.php">CONTACT</a></li>
         
       </ul>
     </div>
